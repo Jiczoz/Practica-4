@@ -1,0 +1,10 @@
+header {
+    background-color: rgb(94, 125, 138);
+    margin:0;
+}
+header a {
+    color:white;
+    font-size: 24px;
+    font-weight: 700;
+
+}
